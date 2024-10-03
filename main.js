@@ -5,3 +5,8 @@ while(i<estados.length){
     console.log(estados[i]);
     i++;
 }
+for (let j = 0; j < estados.length; j++) {
+    const element = estados[j];
+    console.log(j);
+    console.log(estados[j]);
+}
