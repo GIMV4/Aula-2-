@@ -3,5 +3,5 @@ let i = 0
 while(i<27){
     console.log(i);
     console.log(estado[i]);
-    i=i++;
+    i=i+1;
 }
