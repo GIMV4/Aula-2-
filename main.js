@@ -10,7 +10,7 @@
 //     console.log(j);
 //     console.log(estados[j]);
 // }
-let idade = 16;
+let idade = 18;
 if(idade>17){
     console.log('dirige ae')
 }
