@@ -1,6 +1,10 @@
 header{
     background-color: rgb(94, 255, 233);
     color:white;
+    padding: 3rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    text-align: center;
 }
 .menuDisciplinas{
 
