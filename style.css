@@ -3,5 +3,9 @@ header{
     color:white;
 }
 .menuDisciplinas{
+
     color:rgba(202, 159, 241, 0.692);
+}
+.menu{
+    display:flex;
 }
